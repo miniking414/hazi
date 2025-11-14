@@ -14,3 +14,13 @@ ul{
     list-style-type: circle;
     font-size: 1.3em;
 }
+main{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.a{
+    width: 400px;
+}
