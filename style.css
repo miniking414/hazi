@@ -1,18 +1,14 @@
 body{
-    background-color: gray;
+    /* background-color: gray; */
     margin: 0;
     padding: 0;
 }
 header{
-    background-color: rgb(107, 109, 74);
+    background-color: #111111;
     color: white;
     width: 100%;
     padding: 20px;
     text-align: center;
-}
-ul{
-    list-style-type: circle;
-    font-size: 1.3em;
 }
 main{
     text-align: center;
@@ -24,10 +20,49 @@ img{
 .a{
     width: 400px;
 }
-<<<<<<< HEAD
-=======
 .b{
     width: 450px;
     height: 350px;
 }
->>>>>>> 9d91b00 (opis zmiany)
+footer{
+    background-color: rgb(73, 68, 68);
+    color: white;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+.small{
+    text-align: right;
+    vertical-align: top;
+    font: small;
+    color:  rgb(158, 155, 155);
+    margin-right: 35px;
+}
+h2{
+    margin: 0;
+}
+.bgcA{
+    background-color: #6a6a6a;
+}
+.bgcB{
+    background-color: #737373;
+}
+.bgcC{
+    background-color: #7c7c7c;
+}
+.bgcD{
+    background-color: #858585;
+}
+.bgcE{
+    background-color: #8e8e8e;
+}
+.bgcF{
+    background-color: #979797;
+}
+.bgcG{
+    background-color: #a0a0a0;
+    border: none;
+}
+section{
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
